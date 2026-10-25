@@ -1,0 +1,7 @@
+# Packagings
+
+1. **JAR file**: A JAR (Java Archive) file is a common way to package a Java application for distribution. A JAR file contains all the compiled bytecode and resources needed to run the application, and can be executed using the `java -jar` command.
+2. **WAR file**: A WAR (Web Application Archive) file is a way to package a Java web application for deployment to a servlet container, such as Tomcat or Jetty. A WAR file contains all the compiled bytecode, web resources, and configuration files needed to run the application in a servlet container.
+3. **EAR file**: An EAR (Enterprise Archive) file is a way to package a Java enterprise application that consists of multiple modules, such as EJBs (Enterprise JavaBeans), web applications, and utility classes. An EAR file contains all the modules and resources needed to run the enterprise application on a Java EE application server.
+4. **Native executable**: Some tools, such as GraalVM, allow you to package a Java application as a native executable that can be run directly on the host operating system, without the need for a JVM. This can provide improved performance and reduced memory usage, but may require additional configuration and setup.
+5. **Docker container**: A Docker container is a lightweight, portable package that includes all the dependencies and resources needed to run a Java application, including the JVM and any required libraries and configuration files. Docker containers can be easily deployed and scaled across multiple environments and platforms.

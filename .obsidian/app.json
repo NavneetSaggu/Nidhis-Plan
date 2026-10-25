@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Daily Notes",
+  "attachmentFolderPath": "./Attachments",
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  }
+}

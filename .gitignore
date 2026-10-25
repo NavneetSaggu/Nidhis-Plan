@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Obsidian per-device state
+.obsidian/workspace*.json
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Copyrighted book
+*Designing Data-Intensive Applications*.pdf

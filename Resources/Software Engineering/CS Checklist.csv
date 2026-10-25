@@ -1,0 +1,34 @@
+﻿Name,Specifics / Resources,Status,Topics
+Semphores / Mutex,,To Do,OS
+Pageing,,To Do,OS
+Context Switching,,To Do,OS
+Functional Dependency,,To Do,DBMS
+Isolation Levels,,To Do,DBMS
+Revise OOPs,,To Do,OOPS
+Transactions / Serialization,,To Do,DBMS
+SOLID,"The funny mussi https://www.youtube.com/watch?v=_jDNAf3CzeY
+And RefactoringGuru",Doing,Design Patterns
+Multi Threading,,Done 🙌,Java
+"TCP vs HTTP ",,Doing,Network
+Memory / GC,,Done 🙌,Java
+Permutations & Combinations,,Doing,Algebra
+Probability,,Doing,Algebra
+Structural,,To Do,Design Patterns
+Creational,,To Do,Design Patterns
+Behavioral,,To Do,Design Patterns
+The 7 Layers,Read about the functions and protocols at each layer,To Do,Network
+SQL,,To Do,DBMS
+Quiz,"https://www.geeksforgeeks.org/commonly-asked-operating-systems-interview-questions/
+https://www.interviewbit.com/operating-system-interview-questions/",To Do,OS
+Java vs C++ vs Python,How are all these different?,To Do,Java
+Caches,"Kinds, Policies, Configs, Their effects",To Do,Systems
+NoSQL vs SQL,"Difference, when to choose which",To Do,DBMS
+Replication,"How is it done in Kafka, SQL, master slave etc. ",To Do,Systems
+Read Kafka,Just overview of things,To Do,Systems
+GNL,"Prepare for Googliness ",To Do,Interview
+DW app + Hystrix,"Include JUnit, for machine coding",To Do,Java
+Building Scaleable Systems,"What happens when all people book the same seat in a bookmyshow LLD round?
+How will you keep row locks such that we dont go into deadlock and block indefnitely?",To Do,Systems
+LLD Sample Problems,"All of Grokking’s LLDs are here
+https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7",To Do,Systems
+Favorite Questions,Splitwise Balancing https://www.youtube.com/watch?v=WaUlOC1T07c,,Interview
